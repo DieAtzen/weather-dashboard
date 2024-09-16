@@ -1,0 +1,18 @@
+/* src/styles.css */
+body {
+    background: linear-gradient(135deg, #f3f4f6, #ffffff);
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .MuiContainer-root {
+    padding: 2rem;
+  }
+  
+  .MuiButton-containedPrimary {
+    background-color: #007bff;
+    &:hover {
+      background-color: #0056b3;
+    }
+  }
+  
